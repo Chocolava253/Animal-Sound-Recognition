@@ -1,0 +1,35 @@
+body {
+	font-family: "Quicksand", sans-serif;
+    background-color:rgb(203, 213, 239);
+	}
+	.header_div{
+    background-color:rgb(154, 172, 217) ;
+	color: rgb(255, 255, 255);
+	}
+
+	.header_div p{
+    font-family: "Quicksand", sans-serif;
+    color:rgb(255, 255, 255);
+	letter-spacing: 2px ;
+	font-size: 15;
+	font-weight: bold;
+	}
+
+	.main_div button{
+    font-family:"Quicksand", sans-serif;
+    margin-top:30 ;
+	font-size: 15;
+	width: 130px;
+	font-weight: bolder;
+	}
+	.copy_right_footer{
+	position: fixed;
+	color: grey;
+	text-align:center ;
+	background-color: rgb(255, 255, 255);
+	bottom: 0;	
+	width: 100%;
+	font-size: 18;
+	line-height: 3;
+	text-shadow: 5px 5px 5px gray;
+	}
